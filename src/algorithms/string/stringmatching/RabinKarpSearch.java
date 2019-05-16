@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class RabinKarpSearch {
 
-    private static final long PRIME = 101;
+    private static final long PRIME = 3;
 
     public static ArrayList<Integer> search(String text, String pattern) {
         ArrayList<Integer> toReturn = new ArrayList<>();
