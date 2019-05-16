@@ -55,7 +55,7 @@ public class RabinKarpSearch {
     }
 
     public static void main(String[] args) {
-        System.out.println(RabinKarpSearch.search("helloHellohello", "hello"));
+        System.out.println(RabinKarpSearch.search("hellohellohello", "hello"));
     }
 
 }
